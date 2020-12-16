@@ -1,0 +1,4 @@
+﻿  2.cpp
+C:\Users\anton\source\repos\laba4pp\laba4pp\2.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\anton\source\repos\laba4pp\laba4pp\2.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  laba4pp.vcxproj -> C:\Users\anton\source\repos\laba4pp\Debug\laba4pp.exe
